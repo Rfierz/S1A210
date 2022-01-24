@@ -619,3 +619,9 @@ li {
     padding: 50px 0;
   }
 }
+*{
+  font-family: 'Kaisei HarunoUmi', serif;
+}
+.nakiri{
+  max-width: 40%;
+}
