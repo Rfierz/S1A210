@@ -33,12 +33,12 @@ p.mincho {
 }
 
 p.left{
-    text-align: center;
+    text-align: left;
 }
 p.center{
     text-align: center;
 }
 
-p.light{
+p.right{
     text-align: right;
 }
